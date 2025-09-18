@@ -1,2 +1,2 @@
 # Agentic-AI
-Projects for the Agentic AI raining
+Projects for the Agentic AI Training
